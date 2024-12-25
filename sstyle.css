@@ -13,8 +13,6 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   backdrop-filter: blur(5px);
-  color: white;
-}
 
 /* Header styles */
 header {
@@ -108,3 +106,4 @@ footer {
 .shop-button:hover {
   background-color: #e98bb4;
 }
+
