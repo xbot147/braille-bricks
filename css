@@ -1,0 +1,110 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+/* General styles */
+body {
+  font-family: papyrus, fantasy;
+  margin: 0;
+  padding: 0;
+  background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio9OY2-l_wn5PJXnbIDhDEWbcdXXKH6Smvs9kZIXX3RYLQUQGVfyaA128LwuRpVvw9rc3FlyqXLbavg7HFEOv_GlOyaV7WhxYQ4-WEIAw7ZGjYwbIOPPMRwKZWSuYq_H9MIBofzSW1kzKf/s1600/Braile+00013545.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  backdrop-filter: blur(5px);
+  color: white;
+}
+
+/* Header styles */
+header {
+  background-color: #53cabc;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+
+/* Navigation styles */
+nav {
+  background-color: #4f4b86;
+  text-align: center;
+  padding: 5px 0;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Main content styles */
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #7338ad;
+}
+
+/* Footer styles */
+footer {
+  background-color: #d279b2;
+  color: #dfe496;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.voice-chat-button {
+  background-color: #9166f5;
+  color: #0b69a8;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.voice-chat-button:hover {
+  background-color: #e26fc3;
+}
+
+.elevate-your-skills-button {
+  background-color: #644276;
+  color: #7376c9;
+  padding: 5px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.elevate-your-skills-button:hover {
+  background-color: #87c3e8;
+}
+
+.shop-button {
+  background-color: #d7a6f2;
+  color: #1d1f68;
+  padding: 5px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.shop-button:hover {
+  background-color: #e98bb4;
+}
